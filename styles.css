@@ -28,7 +28,7 @@ img {
 /* Setting font color and font
   size of the image-caption */
 #caption {
-  font-size: 17px;
+  font-size: 18px;
   font-family: Gill Sans;
   color: black;
 }
@@ -45,7 +45,7 @@ div#tribute-data {
   box-shadow: 20px 20px 20px #404640;
   font-family: Georgia;
   padding: 25px 25px;
-  margin: 11px;
+  margin: 12px;
   margin-top: 50px;
 }
   
